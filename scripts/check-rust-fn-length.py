@@ -7,7 +7,7 @@ import sys
 import re
 import os
 from pathlib import Path
-
+impot sc
 
 def count_function_lines(filepath: str, max_lines: int) -> list[str]:
     """Find Rust functions exceeding max_lines. Returns list of violations."""
