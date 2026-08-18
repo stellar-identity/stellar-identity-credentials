@@ -1,3 +1,4 @@
+// fix(#22): document the auth/authorization flow inline
 import React, { useState, useEffect, useCallback } from 'react';
 import { 
   Card, 
